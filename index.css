@@ -1,0 +1,20 @@
+.slick-track {
+  display: flex;
+  align-items: stretch;
+}
+
+.slick-list {
+  height: auto !important;
+}
+
+.slick-slide {
+  padding: 30px 50px;
+  float: none;
+  height: 400px;
+  background-color: #ccc;
+}
+
+.slick-prev,
+.slick-next {
+  background-color: #ccc;
+}
